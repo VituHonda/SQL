@@ -1,1 +1,1 @@
-# SQL
+# Repositório para salvar estudos SQL
